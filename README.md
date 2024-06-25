@@ -1,5 +1,5 @@
 # Projetorabisco
-# Portfólio Projeto Papelaria Rabisco Web Front-End e Front-End
+# Portfólio Projeto Papelaria Rabisco Web Front-End e Back-End
 Este repositório contem o Projeto da Papelaria Rabisco na unidade curricular de Programação Web Front-End e Back-End no Sesi Senai Itapeva.
   
 ## Tecnologias Utilizadas
