@@ -7,4 +7,4 @@ Este repositório contem o Projeto da Papelaria Rabisco na unidade curricular de
   
 ## Autor
 - Matheus Almeida de Souza
-- Contato: matheus.almeida.senai@gmail.com
+- Contato: matheusasouza2007@gmail.com
